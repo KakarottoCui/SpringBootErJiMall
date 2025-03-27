@@ -1,7 +1,7 @@
 # SpringBootErJiMall
 基于java SpringBoot和HTML的蓝牙耳机商城设计
 
-演示视频链接：https://live.csdn.net/v/327953
+演示视频链接：https://www.bilibili.com/video/BV1h94y1W76L/
 
 功能介绍：
 
